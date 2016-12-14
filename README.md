@@ -61,7 +61,7 @@ Sora is the chosen one, he is chosen by the keyblade to protect the world from d
 
 body
 
-{background-color: #888888}
+{background-color: #888887}
 
 </style>
 
