@@ -1,7 +1,7 @@
 <Body>
 <h1 align="center"><font size="30" color="red">Welcome To The World Of Kingdom Hearts</font></h1> 
 
-<p><a name="Top">This amazing story starts all the way back in 2002 and that is when we are introduced the first three foundation characters of the series.</p>
+<a> name="Top">This amazing story starts all the way back in 2002 and that is when we are introduced the first three foundation characters of the series.</a>
 
 
 <p> Kairi, Sora, and Riku.</p>
