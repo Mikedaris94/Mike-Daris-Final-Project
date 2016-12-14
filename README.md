@@ -3,9 +3,8 @@
 
 <p><a name="Top">This amazing story starts all the way back in 2002 and that is when we are introduced the first three foundation characters of the series.</p>
 
-<img src="http://vignette3.wikia.nocookie.net/disney/images/7/7a/Kh2intro_sora_kairi_riku.jpg/revision/latest?cb=20121028004315"style="link-align: center">
 
-<p> Kairi, Riku, and Sora.</p>
+<p> Kairi, Sora, and Riku.</p>
 
 <img width="300" height="534" class="lzyPlcHld  lzyTrns lzyLoaded" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" alt="KairiKH2" src="http://vignette2.wikia.nocookie.net/kingdomhearts/images/1/10/KairiKH2.png/revision/latest/scale-to-width-down/300?cb=20110830215103" data-image-name="KairiKH2.png" data-image-key="KairiKH2.png" data-src="http://vignette2.wikia.nocookie.net/kingdomhearts/images/1/10/KairiKH2.png/revision/latest/scale-to-width-down/300?cb=20110830215103">
 
