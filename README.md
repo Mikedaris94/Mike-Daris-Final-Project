@@ -1,4 +1,4 @@
-
+<p><img src= ("http://vignette3.wikia.nocookie.net/disney/images/7/7a/Kh2intro_sora_kairi_riku.jpg/revision/latest?cb=20121028004315")style="link-align: center"></p>
 
 <h1>Welcome To The World Of Kingdom Hearts</h1> 
 
