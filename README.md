@@ -2,14 +2,14 @@
 
 <h1>Welcome To The World Of Kingdom Hearts</h1> 
 
-<p><a name="Top">This amazing story starts all the way back in 2002 and that is when we are introduced the first three foundation characters of the series.  
+<p><a name="Top">This amazing story starts all the way back in 2002 and that is when we are introduced the first three foundation characters of the series.  </p>
 
 
 <p><img src="http://vignette3.wikia.nocookie.net/disney/images/7/7a/Kh2intro_sora_kairi_riku.jpg/revision/latest?cb=20121028004315"style="link-align: center"></p>
 
 <p> Kairi, Riku, and Sora.</p>
 
-<img width="300" height="534" class="lzyPlcHld  lzyTrns lzyLoaded" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" alt="KairiKH2" src="http://vignette2.wikia.nocookie.net/kingdomhearts/images/1/10/KairiKH2.png/revision/latest/scale-to-width-down/300?cb=20110830215103" data-image-name="KairiKH2.png" data-image-key="KairiKH2.png" data-src="http://vignette2.wikia.nocookie.net/kingdomhearts/images/1/10/KairiKH2.png/revision/latest/scale-to-width-down/300?cb=20110830215103">
+<p><img width="300" height="534" class="lzyPlcHld  lzyTrns lzyLoaded" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" alt="KairiKH2" src="http://vignette2.wikia.nocookie.net/kingdomhearts/images/1/10/KairiKH2.png/revision/latest/scale-to-width-down/300?cb=20110830215103" data-image-name="KairiKH2.png" data-image-key="KairiKH2.png" data-src="http://vignette2.wikia.nocookie.net/kingdomhearts/images/1/10/KairiKH2.png/revision/latest/scale-to-width-down/300?cb=20110830215103"></p>
 
 <h2> KAIRI</h2>
 
@@ -19,7 +19,7 @@
 
 
 
-<img width="250" height="358" class="lzyPlcHld  lzyTrns lzyLoaded" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" alt="Sora KHIII" src="http://vignette3.wikia.nocookie.net/kingdomhearts/images/e/ef/Sora_KHIII.png/revision/latest/scale-to-width-down/250?cb=20150625053050" data-image-name="Sora KHIII.png" data-image-key="Sora_KHIII.png" data-src="http://vignette3.wikia.nocookie.net/kingdomhearts/images/e/ef/Sora_KHIII.png/revision/latest/scale-to-width-down/250?cb=20150625053050"><p>
+<p><img width="250" height="358" class="lzyPlcHld  lzyTrns lzyLoaded" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" alt="Sora KHIII" src="http://vignette3.wikia.nocookie.net/kingdomhearts/images/e/ef/Sora_KHIII.png/revision/latest/scale-to-width-down/250?cb=20150625053050" data-image-name="Sora KHIII.png" data-image-key="Sora_KHIII.png" data-src="http://vignette3.wikia.nocookie.net/kingdomhearts/images/e/ef/Sora_KHIII.png/revision/latest/scale-to-width-down/250?cb=20150625053050"><p>
 
 Sora is the chosen one, he is chosen by the keyblade to protect the world from darkness and the keyblade is the only weapon that can fight against the evil to come.
 
@@ -29,7 +29,7 @@ Sora is the chosen one, he is chosen by the keyblade to protect the world from d
 
 
 
-<img src="http://www.khwiki.com/images/thumb/1/1a/Riku_KHHD.png/200px-Riku_KHHD.png">
+<p><img src="http://www.khwiki.com/images/thumb/1/1a/Riku_KHHD.png/200px-Riku_KHHD.png"></p>
 
 <p> Riku is the deuteragonist of the Kingdom Hearts series. He is a Keyblade master that has the power of light and darkness, and is always ready to sacrifice himself to protect his friends. </p>
 
