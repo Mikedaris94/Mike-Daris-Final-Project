@@ -2,9 +2,7 @@
 
 <h1>Welcome To The World Of Kingdom Hearts</h1> 
 
-<div> style="text-align: center"><p><a name="Top">This amazing story starts all the way back in 2002 and that is when we are introduced the first three foundation characters of the series.  
-
-</div>
+<p><a name="Top">This amazing story starts all the way back in 2002 and that is when we are introduced the first three foundation characters of the series.  
 
 
 <p><img src="http://vignette3.wikia.nocookie.net/disney/images/7/7a/Kh2intro_sora_kairi_riku.jpg/revision/latest?cb=20121028004315"style="link-align: center"></p>
