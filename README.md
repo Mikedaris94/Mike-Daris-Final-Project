@@ -35,7 +35,7 @@ Sora is the chosen one, he is chosen by the keyblade to protect the world from d
 
 
 
-<p>a name="End"> Although Kingdom Hearts was the first game to release the story line did not start with these three amazing characters. Instead it went like this. <img width="650" height="88" class="alignnone size-full wp-image-8442" alt="" src="http://www.destinyislands.com/images/kh-series-explained/timeline.png">
+<p> Although Kingdom Hearts was the first game to release the story line did not start with these three amazing characters. Instead it went like this. <img width="650" height="88" class="alignnone size-full wp-image-8442" alt="" src="http://www.destinyislands.com/images/kh-series-explained/timeline.png">
 (Kingdom Hearts Birth By Sleep, Kingdom Hearts, Kingdom Hearts Chain Of Memories, Kingdom Hearts 
 358/2 days, Kingdom Hearts 2, Kingdom Hearts Coded, and last Kingdom Hearts 3D).
 
